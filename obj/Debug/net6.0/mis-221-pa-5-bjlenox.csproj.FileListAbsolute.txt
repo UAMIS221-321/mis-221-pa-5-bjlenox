@@ -1,0 +1,15 @@
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\bin\Debug\net6.0\mis-221-pa-5-bjlenox.exe
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\bin\Debug\net6.0\mis-221-pa-5-bjlenox.deps.json
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\bin\Debug\net6.0\mis-221-pa-5-bjlenox.runtimeconfig.json
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\bin\Debug\net6.0\mis-221-pa-5-bjlenox.dll
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\bin\Debug\net6.0\mis-221-pa-5-bjlenox.pdb
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.csproj.AssemblyReference.cache
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.AssemblyInfoInputs.cache
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.AssemblyInfo.cs
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.csproj.CoreCompileInputs.cache
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.dll
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\refint\mis-221-pa-5-bjlenox.dll
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.pdb
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\mis-221-pa-5-bjlenox.genruntimeconfig.cache
+C:\Users\benle\Documents\mis221\mis-221-pa-5-bjlenox\obj\Debug\net6.0\ref\mis-221-pa-5-bjlenox.dll
